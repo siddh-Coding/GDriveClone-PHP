@@ -23,7 +23,7 @@ Bootstrap: The project does not utilize Bootstrap for styling. Users may add Boo
 # Installation and Setup
 1. Clone the repository : git clone https://github.com/siddh-Coding/GDriveClone-PHP.git
 2. Navigate to the project directory : cd GDriveClone-PHP/
-3. Import the filehub.sql file into your MySQL database.
+3. Import the GDriveCloneDB.sql file into your MySQL database.
 4. Configure the db.php file with your database credentials.
 5. Run the project on a local server (e.g., XAMPP, WAMP).
 
