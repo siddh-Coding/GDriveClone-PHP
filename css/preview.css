@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.preview {
+    width: 90vw;
+    height: auto;
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    border: 2.5px solid rgb(144, 136, 136);
+    align-items: center;
+}
+
+
+
+
+.top-right {
+    border: 2.5px solid rgb(144, 136, 136);
+    position: absolute;
+    top: 35px;
+    right: 20px;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
